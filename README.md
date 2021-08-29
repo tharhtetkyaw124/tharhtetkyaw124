@@ -16,11 +16,10 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on 
+
 
 - 🌱 I’m currently learning AWS,Ansible,Terraform 
 
-- 👯 I’m looking to collaborate on  
 
 - 💬 Talk to me about DevOps 
 
@@ -55,5 +54,4 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
 
